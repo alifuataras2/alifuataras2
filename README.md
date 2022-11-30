@@ -9,4 +9,4 @@
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 
-<p>&nbsp;<img align="center" width="45%"  src="https://github-readme-stats.vercel.app/api?username=Alifuataras2&show_icons=true&locale=en" alt="alifuataras2" /></p>
+<p>&nbsp;<img align="center" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Alifuataras2&show_icons=true&locale=en" alt="alifuataras2" /></p>
